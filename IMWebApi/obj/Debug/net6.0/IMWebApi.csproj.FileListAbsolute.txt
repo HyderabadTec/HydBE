@@ -1,0 +1,399 @@
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\appsettings.json
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.exe
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.deps.json
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.runtimeconfig.json
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.pdb
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.AssemblyReference.cache
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfoInputs.cache
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfo.cs
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.CoreCompileInputs.cache
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\scopedcss\bundle\IMWebApi.styles.css
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.dll
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\refint\IMWebApi.dll
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.pdb
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.genruntimeconfig.cache
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\ref\IMWebApi.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Humanizer.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\appsettings.json
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.exe
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.deps.json
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.runtimeconfig.json
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.pdb
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Humanizer.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.AssemblyReference.cache
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfoInputs.cache
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfo.cs
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.CoreCompileInputs.cache
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\scopedcss\bundle\IMWebApi.styles.css
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.CopyComplete
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\refint\IMWebApi.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.pdb
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.genruntimeconfig.cache
+D:\Khaleel_Dev\IMWebApi\IMWebApi\obj\Debug\net6.0\ref\IMWebApi.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\MailKit.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\MimeKit.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Email.Service.dll
+D:\Khaleel_Dev\IMWebApi\IMWebApi\bin\Debug\net6.0\Email.Service.pdb
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\MailKit.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\MimeKit.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Email.Service.dll
+D:\IMWebApi\IMWebApi\bin\Debug\net6.0\Email.Service.pdb
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.IMWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.IMWebApi.props
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IMWebApi.props
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IMWebApi.props
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.Up2Date
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\appsettings.json
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.exe
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.deps.json
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.runtimeconfig.json
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\IMWebApi.pdb
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Humanizer.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\MailKit.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\MimeKit.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Email.Service.dll
+E:\IMWebApi\IMWebApi\bin\Debug\net6.0\Email.Service.pdb
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.AssemblyReference.cache
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfoInputs.cache
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfo.cs
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.CoreCompileInputs.cache
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.IMWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.IMWebApi.props
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IMWebApi.props
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IMWebApi.props
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\scopedcss\bundle\IMWebApi.styles.css
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.Up2Date
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.dll
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\refint\IMWebApi.dll
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.pdb
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\IMWebApi.genruntimeconfig.cache
+E:\IMWebApi\IMWebApi\obj\Debug\net6.0\ref\IMWebApi.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\appsettings.json
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\IMWebApi.exe
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\IMWebApi.deps.json
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\IMWebApi.runtimeconfig.json
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\IMWebApi.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\IMWebApi.pdb
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Humanizer.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\MailKit.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\MimeKit.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\NETCore.MailKit.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Email.Service.dll
+E:\Project 02 08 2024\Back End\IMWebApi\bin\Debug\net6.0\Email.Service.pdb
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.AssemblyReference.cache
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfoInputs.cache
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.AssemblyInfo.cs
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.CoreCompileInputs.cache
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.IMWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.IMWebApi.props
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IMWebApi.props
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IMWebApi.props
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\scopedcss\bundle\IMWebApi.styles.css
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.csproj.Up2Date
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.dll
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\refint\IMWebApi.dll
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.pdb
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\IMWebApi.genruntimeconfig.cache
+E:\Project 02 08 2024\Back End\IMWebApi\obj\Debug\net6.0\ref\IMWebApi.dll

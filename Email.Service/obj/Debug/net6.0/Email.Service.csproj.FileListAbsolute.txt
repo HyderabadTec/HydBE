@@ -1,0 +1,48 @@
+D:\Khaleel_Dev\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.deps.json
+D:\Khaleel_Dev\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.dll
+D:\Khaleel_Dev\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.pdb
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.csproj.AssemblyReference.cache
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfoInputs.cache
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfo.cs
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.csproj.CoreCompileInputs.cache
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.dll
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\refint\Email.Service.dll
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.pdb
+D:\Khaleel_Dev\IMWebApi\Email.Service\obj\Debug\net6.0\ref\Email.Service.dll
+D:\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.deps.json
+D:\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.dll
+D:\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.pdb
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.csproj.AssemblyReference.cache
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfoInputs.cache
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfo.cs
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.csproj.CoreCompileInputs.cache
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.dll
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\refint\Email.Service.dll
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.pdb
+D:\IMWebApi\Email.Service\obj\Debug\net6.0\ref\Email.Service.dll
+E:\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.deps.json
+E:\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.dll
+E:\IMWebApi\Email.Service\bin\Debug\net6.0\Email.Service.pdb
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.csproj.AssemblyReference.cache
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfoInputs.cache
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfo.cs
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.csproj.CoreCompileInputs.cache
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.dll
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\refint\Email.Service.dll
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\Email.Service.pdb
+E:\IMWebApi\Email.Service\obj\Debug\net6.0\ref\Email.Service.dll
+E:\Project 02 08 2024\Back End\Email.Service\bin\Debug\net6.0\Email.Service.deps.json
+E:\Project 02 08 2024\Back End\Email.Service\bin\Debug\net6.0\Email.Service.dll
+E:\Project 02 08 2024\Back End\Email.Service\bin\Debug\net6.0\Email.Service.pdb
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.csproj.AssemblyReference.cache
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfoInputs.cache
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.AssemblyInfo.cs
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.csproj.CoreCompileInputs.cache
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.dll
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\refint\Email.Service.dll
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\Email.Service.pdb
+E:\Project 02 08 2024\Back End\Email.Service\obj\Debug\net6.0\ref\Email.Service.dll
